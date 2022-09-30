@@ -1,4 +1,4 @@
-![unnamed-12](https://user-images.githubusercontent.com/97267914/159146634-d3563781-ca68-436e-8da6-3a0c78d19d87.jpg)
+![unnamed-12](https://user-images.githubusercontent.com/97267914/193221475-84fec482-26ae-47ee-8654-5290ca8e632b.png)
 
 
 
@@ -6,5 +6,5 @@ The Bored Ape Nike Yacht Club is a collection of 10,000 unique Bored Ape NFTs—
 
 CONTRACT:[0x1138f7E3EFE618ceB537d6AC0860408DE1D05e48](https://www.element.market/collections/the-bored-apes-nike-metaverse-official) ON NETWORK: POLYGON
 
-
+Hello everyone, during this time the team has encountered problems with the attack on the project, causing a huge impact on the reputation of the company. We are responsible for this mistake. The team will send NFT Airdrops to  More than 10 wallets held as smart contracts were compromised to offset Nft 0.065 ETH ( 100$ ) claimable on the Rarible platform.
 
