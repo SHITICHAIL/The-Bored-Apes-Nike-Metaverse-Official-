@@ -1,5 +1,4 @@
-name: Jekyll site CI
-
+name: Nike x B.A.Y.C 
 on:
   push:
     branches: [ Nervermain ]
